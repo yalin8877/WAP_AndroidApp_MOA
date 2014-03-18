@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile Office Assistant</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_apply">ApplyActivity</string>
+    <string name="title_activity_apl_editor">AplEditorActivity</string>
+    <string name="title_activity_transcation">TranscationActivity</string>
+    <string name="apply_financial">Input account name</string>
+    <string name="apply_manager">Input account name</string>
+    <string name="apply_amount">Total Amount</string>
+    <string name="apply_title">Application Title</string>
+    <string name="apply_detail">Please explain the details what the money is used for.</string>
+
+</resources>

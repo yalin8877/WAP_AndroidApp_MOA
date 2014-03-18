@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout02"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/ListView_todo"
+        android:layout_width="wrap_content"
+        android:layout_height="370dp" />
+
+    <Button
+        android:id="@+id/disapprove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="50dp"
+        android:layout_x="165dp"
+        android:layout_y="392dp"
+        android:height="45dp"
+        android:onClick="onButtonClick"
+        android:text="Disapprove"
+        android:width="130dp" />
+
+    <Button
+        android:id="@+id/approve"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="50dp"
+        android:layout_x="28dp"
+        android:layout_y="392dp"
+        android:height="45dp"
+        android:onClick="onButtonClick"
+        android:text="Approve"
+        android:width="130dp" />
+
+</AbsoluteLayout>
